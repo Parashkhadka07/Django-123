@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.form {
+  display: flex;
+  background-color: antiquewhite;
+  height: 60vh;
+  width: 40vh;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+}
